@@ -111,7 +111,7 @@
 + [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - 上传, 检索和管理大量数据, 通过 API 调用访问数据, 查看预先打包的报告, 依靠 Verizon 的安全措施保证数据安全和随时可用.
 
 ### 物流
-+ [AfterShip](https://docs.aftership.com/api/) - 支持超过200家物流公司的物流跟踪和通知.
++ [AfterShip](https://docs.aftership.com/api/) - 支持超过1000家物流公司的物流跟踪和通知.
 + [爱快递](http://www.aikuaidi.cn/api/) - 支持超过200家中国物流公司.
 + [Aramex](https://www.aramex.com/developers/aramex-apis) - 通过全球物流提供商网络提供包裹, 快递和货运服务.
 + [Canada Post](http://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/fundamentals.jsf) - 允许电子商务解决方案提供商和在线商家将加拿大邮政服务(如邮寄,评级和跟踪数据)整合到平台或网站中.
