@@ -117,7 +117,7 @@ English | [中文](README-zh.md)
 + [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - Upload, retrieve, and manage large amounts of data, access data through an API call, view prepackaged reports, rely on Verizon security to keep data safe and accessible at all times.
 
 ### Delivery-Tracking
-+ [AfterShip](https://docs.aftership.com/api/) - Supports shipment tracking and notifications for over 200 couriers.
++ [AfterShip](https://docs.aftership.com/api/) - Supports shipment tracking and notifications for over 1000 couriers.
 + [aikuaidi](http://www.aikuaidi.cn/api/) - Supports shipment tracking for over 200 Chinese couriers.(**Missing English Docs**)
 + [Aramex](https://www.aramex.com/developers/aramex-apis) - Provides parcel, package, and freight delivery via a global network of shipping providers.
 + [Canada Post](http://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/fundamentals.jsf) - Allows e-commerce solution providers and online merchants to integrate Canada Post services, such as shipping, rating and tracking data, into a platform or website.
